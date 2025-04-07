@@ -15,6 +15,4 @@ Add Complexity:
 1. Use CloudFront for caching
 2. Deploy app updates using CodeDeploy with Blue/Green deployment
 
-<p align="center">
-  <img src="E:\AWS\Projects\terraform-scalable-webapp\Architecture.png" alt="Architecture Diagram" width="500"/>
-</p>
+![Diagram](Architecture.png)
